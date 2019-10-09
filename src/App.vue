@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  img(src='./assets/logo.png')
+  img(src='https://doncanzsa.github.io/platzimusic/assets/logo.png')
   h1 {{ msg }}
   h2 Essential Links
   select(v-model="selectedCountry")
